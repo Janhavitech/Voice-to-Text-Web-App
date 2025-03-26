@@ -33,7 +33,7 @@ The app transcribes your speech into text.
 Copy or edit the transcribed text as needed.
 
 📸Screenshots
-
+![image alt](https://github.com/Janhavitech/Voice-to-Text-Web-App/blob/813ee934c46ef7b5d1757e6a86d77f2f2969ae9a/Screenshot%20(377).png)
 
 
 📝 License
