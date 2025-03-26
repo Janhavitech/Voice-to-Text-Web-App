@@ -32,6 +32,9 @@ Speak into your microphone.
 The app transcribes your speech into text.
 Copy or edit the transcribed text as needed.
 
+📸Screenshots
+
+
 
 📝 License
 This project is open-source and available under the MIT License.
